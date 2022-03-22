@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/qrcoder/static/css/main.926799ff.css",
+    "main.js": "/qrcoder/static/js/main.2e8b3e7f.js",
+    "static/js/787.893aed1c.chunk.js": "/qrcoder/static/js/787.893aed1c.chunk.js",
+    "static/media/done.mp4": "/qrcoder/static/media/done.190f8ea675d7d171e675.mp4",
+    "static/media/parbin.jpg": "/qrcoder/static/media/parbin.1ba3cac8cc4d339ad980.jpg",
+    "index.html": "/qrcoder/index.html",
+    "main.926799ff.css.map": "/qrcoder/static/css/main.926799ff.css.map",
+    "main.2e8b3e7f.js.map": "/qrcoder/static/js/main.2e8b3e7f.js.map",
+    "787.893aed1c.chunk.js.map": "/qrcoder/static/js/787.893aed1c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.926799ff.css",
+    "static/js/main.2e8b3e7f.js"
+  ]
+}
